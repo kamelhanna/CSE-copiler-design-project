@@ -1,6 +1,0 @@
-for ;
-! x1 y xy 08 ;
-+ new || int z || 1 / 4 /*compilerProject ;
-for (* m == 5 *) ;
-print 'hello' ;
-if (* zr >= 4 *) ;
